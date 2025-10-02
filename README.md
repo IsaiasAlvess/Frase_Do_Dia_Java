@@ -1,4 +1,4 @@
-# App Frase Do Dia
+# App Frase Do Dia /  Daily Quote App
 
 ## :camera_flash: Screenshot
 
@@ -7,9 +7,8 @@
 <img width="265"  alt="Image" src="https://github.com/user-attachments/assets/ce7b8918-c56a-4aef-b0f1-53ef6ddbadd7" />
 <img width="263"  alt="Image" src="https://github.com/user-attachments/assets/48db80a2-aaf0-402c-9b81-022f6d0644d5" />
 
-- # Daily Quote App EN
 
-## Overview
+## Overview EN
 The Daily Quote App is a simple Android application designed to inspire users by displaying a random motivational quote each time a button is pressed. This project showcases basic Android development concepts and serves as a practical exercise in UI interaction and random data generation.
 
 ## Features
@@ -24,7 +23,7 @@ The Daily Quote App is a simple Android application designed to inspire users by
 - **XML Layouts**: Defines the UI in `activity_main.xml`, connecting a `TextView` and a button via `findViewById`.
 - **Random**: Java class utilized to select quotes randomly from an array.
 
-- ## Visão Geral PT/BR
+## Visão Geral PT/BR
 O App Frase do Dia é um aplicativo Android simples criado para inspirar os usuários, exibindo uma frase motivacional aleatória a cada clique em um botão. Este projeto demonstra conceitos básicos de desenvolvimento Android e serve como um exercício prático de interação com a interface e geração de dados aleatórios.
 
 ## Funcionalidades
